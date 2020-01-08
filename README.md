@@ -25,13 +25,13 @@ This is the official DNA TypeScript SDK - a comprehensive library for developing
 ### Download Through npm/Yarn
 
 ````
-npm install 'DNA-ts-sdk' --save
+npm install 'dna-ts-sdk' --save
 ````
 
 or
 
 ```
-yarn add 'DNA-ts-sdk'
+yarn add 'dna-ts-sdk'
 ```
 
 ### Build from Source Code
